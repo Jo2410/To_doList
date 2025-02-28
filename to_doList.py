@@ -13,8 +13,6 @@ message=("1-add tasks to a list\n"
          "3-view tasks\n"
          "4-Quit\n")
 
-
-
 tasks=[]
 
 while True:
